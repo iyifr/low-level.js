@@ -3,5 +3,5 @@ A library of low level codes written with Javascript in a Node.js environment. G
 Feel free to contribute!
 Fork the repo , create a branch , create a folder in /src , 
 Get creative!.
-Use node-js and it's native libraries only!
-Happy hacking
+Only one rule  - Use node-js and it's native libraries only
+Happy hacking!
